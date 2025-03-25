@@ -34,8 +34,6 @@
 ### 🔧 연동 도구
 - [LeetHub v3 Chrome 확장 프로그램](https://chromewebstore.google.com/detail/leethub-v3/kdkgpjpenaeoodajljkflmlnkoihkmda?hl=ko&utm_source=ext_sidebar)을 통해 GitHub 자동 업로드
 - Discord Webhook을 통해 문제 풀이 자동 공유  
-  - Webhook URL:  
-    `https://discord.com/api/webhooks/1352137090778927298/fTwnXZZenYn5GkZFoG0s78TGa413QbIZQxAxvSsEcli_8VjQlMviK-1O8OdDwODHngqf/github`
 
 ---
 ## 💾 GitHub 사용 규칙
